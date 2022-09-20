@@ -1,4 +1,3 @@
-// Dado el radio y la altura de un cilindro, calcule su área y su volumen.
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>

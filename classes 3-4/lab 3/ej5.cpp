@@ -1,6 +1,3 @@
-// Escriba un programa en donde, dado como dato una cantidad de dinero 
-// expresada en dólares, la convierte a Quetzales. 
-
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>

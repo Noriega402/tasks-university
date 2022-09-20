@@ -1,5 +1,3 @@
-// El programa, dadas las coordenadas de dos puntos P1 y P2,
-// calcula la distancia entre estos dos puntos
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>

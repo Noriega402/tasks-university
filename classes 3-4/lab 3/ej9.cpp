@@ -1,5 +1,3 @@
-// Dado como dato los galones surtidos a un cliente en una gasolinera,
-// calcule mediante un programa lo que el mismo debe pagar
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>

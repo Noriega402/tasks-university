@@ -1,5 +1,3 @@
-// Dados los datos enteros A y B, escriba el resultado 
-//de la siguiente expresión: (A + B)^2/3
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
@@ -20,7 +18,7 @@ main(){
 	cin>>b;
 	add = a+b;
 	
-	cout<<"El resultado es: "<<pow(add,0.66);
+	cout<<"El resultado es: "<<(pow(add,2))/3;
 	
 	getch();	
 }

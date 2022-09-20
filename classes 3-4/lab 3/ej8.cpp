@@ -1,6 +1,3 @@
-// El programa, dados como datos dos números reales, calculará
-// la suma, la resta y multiplicación de dichos números. 
-// Considere 2 dígitos significativos para su respuesta.
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>

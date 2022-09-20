@@ -1,6 +1,3 @@
-// Dada la matrícula y 5 calificaciones de un alumno obtenidas a lo largo del 
-// semestre, construya un programa que imprima la matrícula del alumno y el 
-// promedio de sus calificaciones. 
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>

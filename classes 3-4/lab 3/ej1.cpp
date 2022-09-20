@@ -1,5 +1,3 @@
-// Los datos A, B, C y D representan números enteros, escriba los mismos en 
-// orden inverso. 
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
